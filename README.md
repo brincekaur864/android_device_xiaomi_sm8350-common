@@ -1,4 +1,4 @@
-Copyright (C) 2020 - The LineageOS Project
+版权所有 (C) 2020 - LineageOS 项目
 
-Common device tree for Xiaomi SM8350 based devices
+基于小米 SM8350 的设备的通用设备树
 ==============
